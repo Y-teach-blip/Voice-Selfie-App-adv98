@@ -1,0 +1,27 @@
+body
+{
+    background-image: linear-gradient(rgb(165, 181, 252), rgb(255, 172, 230), rgb(255, 237, 134), rgb(132, 255, 132));
+    color: rgb(0, 0, 0);
+    font-family: 'Freestyle Script';
+    font-size: 40px;
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
